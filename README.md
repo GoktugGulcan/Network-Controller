@@ -22,7 +22,7 @@ This project consists of two scripts for monitoring devices on a network:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/network-controller.git
+    git clone https://github.com/GoktugGulcan/network-controller.git
     cd network-controller
     ```
 
